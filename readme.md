@@ -47,3 +47,9 @@ In the previous example, #simple is just an easy way to verify some logic withou
 ![Screenshot_2019-09-25_20-42-36.png](https://ipfs.busy.org/ipfs/QmVHDMYcUJhGtAgWabwxqXXXqoRbHiAxPGvzdjtgXCkwGN)
 
 As you can see in the above image I'm able to use the latest version of NodeJS and also the LTS version of it which also differs from the version I currently have install in the system with the OS package manager.
+
+# Git
+## Git basic commands
+
+## Git workflow
+
